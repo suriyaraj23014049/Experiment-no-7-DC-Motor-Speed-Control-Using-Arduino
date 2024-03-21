@@ -1,4 +1,4 @@
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
+
 ###  DATE: 21-03-2024
 
 ###  NAME: SURIYA RAJ K
